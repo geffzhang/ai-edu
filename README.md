@@ -49,8 +49,8 @@
 # <font size=5>目录结构</font> 
 
 - [A:教学课程](./A-教学课程) 
-  - [人工智能基本原理简明教程-微软System团队](./A-教学课程/人工智能基本原理简明教程-微软System团队.md)
-  - [人工智能实践课程大纲-微软System团队](./A-教学课程/人工智能实践课程大纲-微软System团队.md)
+  - [神经网络基本原理简明教程-微软亚洲研究院  System Research 团队](https://github.com/Microsoft/ai-edu/tree/master/B-%E6%95%99%E5%AD%A6%E6%A1%88%E4%BE%8B%E4%B8%8E%E5%AE%9E%E8%B7%B5/B6-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B)
+  - [人工智能实践课程大纲-微软亚洲研究院  System Research 团队](./A-教学课程/人工智能实践课程大纲-微软亚洲研究院SystemResearch团队.md)
   - [微软专业学位MPP（Microsoft Professional Program）人工智能课](./A-教学课程/MPP.md)
   - [微软人工智能公开课](./A-教学课程/微软人工智能公开课.md)
   - [微软人工智能系列前沿课程](./A-教学课程/人工智能系列前沿课程.md)
@@ -61,17 +61,13 @@
   - [定制化－图像识别应用案例－看图识熊](./B-教学案例与实践/B3-定制化－图像识别应用案例－看图识熊/README.md) 
   - [定制化－语言理解应用案例－智能家居](./B-教学案例与实践/B4-定制化－语言理解应用案例－智能家居/README.md) 
   - [扩展阅读-搭建中间服务层](./B-教学案例与实践/B5-扩展阅读-搭建中间服务层/README.md) 
-  - [人工智能基本原理入门](./B-教学案例与实践/B6-人工智能基本原理简明教程/README.md) 
+  - [神经网络基本原理简明教程](./B-教学案例与实践/B6-神经网络基本原理简明教程/README.md) 
   - [自构建－图像识别应用案例-手写数字识别](./B-教学案例与实践/B7-自构建－图像识别应用案例-手写数字识别/README.md) 
   - [自构建－AI游戏开发案例－黄金点游戏](./B-教学案例与实践/B8-自构建－AI游戏开发案例－黄金点游戏/README.md) 
   - [自构建－图像识别应用案例-手写算式计算器](./B-教学案例与实践/B9-自构建－图像识别应用案例-手写算式计算器/README.md)
-  - [扩展阅读－机器学习平台建设](./B-教学案例与实践/B10-扩展阅读－机器学习平台建设/README.md) 
+  - [扩展阅读－机器学习平台建设](./B-教学案例与实践/B10-扩展阅读－机器学习平台建设/readme.md) 
   
 - [C:开发工具与环境](./C-开发工具与环境/README.md)
-   - [Microsoft Visual Studio Tools for AI](./C-开发工具与环境/README.md) 
-     - [Microsoft Visual Studio Tools for AI (VS2017 version)安装包](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vstoolsai-vs2017)
-     - [从零开始搭建开发环境](https://mp.weixin.qq.com/s/-vG9kg48mt9vcmqDlWtxKw)
-     - [Microsoft Visual Studio Tools for AI GitHub Repo](https://github.com/Microsoft/vs-tools-for-ai)
    - [微软开源自动机器学习工具NNI](./C-开发工具与环境/README.md) 
      - [微软开源自动机器学习工具NNI简介](https://www.cnblogs.com/ms-uap/p/9719071.html) 
      - [微软开源自动机器学习工具NNI GitHub Repo](https://github.com/Microsoft/nni)
@@ -85,5 +81,6 @@
 - [D:答疑与交流](./D-答疑与交流)
   
 - [E:等你来战](./E-等你来战)
+  - [挑战黄金点](./E-等你来战/README.md#挑战黄金点)
 
 
